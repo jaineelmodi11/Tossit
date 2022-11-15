@@ -1,0 +1,9 @@
+{
+  "expoServerPort": null,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://c4-txg.anonymous.tossit-master.exp.direct",
+  "packagerNgrokUrl": "https://c4-txg.anonymous.tossit-master.exp.direct",
+  "ngrokPid": 20708,
+  "packagerPid": null,
+  "webpackServerPort": 19006
+}

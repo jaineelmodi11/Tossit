@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022687635194",
+    "project_id": "toss-it-56261",
+    "storage_bucket": "toss-it-56261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022687635194:android:33c54ae454f31c85dacb43",
+        "android_client_info": {
+          "package_name": "com.tossit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022687635194-rdr24gmvfs22oj5ee8qu0vfjvjrkmp9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRh9kRiSF3q-UOgdbOxCm-6KFZhjctsCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022687635194-rdr24gmvfs22oj5ee8qu0vfjvjrkmp9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
