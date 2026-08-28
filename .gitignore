@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Native builds
+*.apk
+*.aab
+*.ipa
+ios/Pods/
+android/app/build/
+android/.gradle/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+google-services.json
+GoogleService-Info.plist
+
+# Model weights, too large for git
+server/*.h5
+server/*.onnx
+server/model_saved/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Logs and OS files
+*.log
+npm-debug.*
+yarn-error.*
+.DS_Store
